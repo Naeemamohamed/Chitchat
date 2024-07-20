@@ -34,7 +34,7 @@ ALLOWED_HOSTS =['*']
 # Application definition
 
 INSTALLED_APPS = [
-    'ChitChat.apps.ChitchatConfig',
+    'ChitChat',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
